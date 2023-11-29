@@ -4,6 +4,8 @@ pragma solidity ^0.8.13;
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
+import "./IBikeSharingContract.sol";
+
 import "./ISupraSValueFeed.sol";
 //Price Feed Addresses: https://supraoracles.com/docs/price-feeds/decentralized/networks
 //IOTEX mainnet: 0x1a83f5937979CdF9E60Af4C064Da367af2289eD3
