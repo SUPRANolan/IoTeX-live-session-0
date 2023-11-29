@@ -8,6 +8,7 @@ import "./ISupraSValueFeed.sol";
 //Price Feed Addresses: https://supraoracles.com/docs/price-feeds/decentralized/networks
 //IOTEX mainnet: 0x1a83f5937979CdF9E60Af4C064Da367af2289eD3
 //IOTEX testnet: 0x59f433fa29Fb2227b6E860956C654AfF7673Af10
+//iotx_usdt pair index: 134
 
 contract BikeShareLending {
 
